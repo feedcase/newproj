@@ -1,7 +1,7 @@
-i = input("Input ur string: ")
-l = len(i)//2
+N = input("Input ur string: ")
+l = len(N)//2
 for letter in range(l):
-    if i[letter] != i[-1]:
+    if N[letter] != N[-1]:
         print('Not palindrome')
         quit()
 print('Its palindrome')

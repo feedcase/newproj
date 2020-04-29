@@ -1,2 +1,2 @@
-i = input('Input ur math expression:')
-print(eval(i))
+s = input('Input ur math expression:')
+print(eval(s))
