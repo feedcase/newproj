@@ -14,4 +14,4 @@ for i in range(N):
     r += o
 
 
-print('cos(x) = ', r)
+print('cos (x) = ', r)
